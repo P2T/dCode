@@ -12,4 +12,4 @@ Please feel free to open issues, write comments, share the website, etc.
 
 ## Acknowledgments
 
-* Any one who understand this and who can contribute to dCode
+* Everybody who can contribute to dCode
